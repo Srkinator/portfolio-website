@@ -1,0 +1,27 @@
+{
+  "name": "srkinator.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio of Srdjan Popovic, Front End Developer based in Belgrade, Serbia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srkinator/srkinator.github.io.git"
+  },
+  "keywords": [
+    "frontend",
+    "srdjan",
+    "popovic",
+    "personal",
+    "portfolio"
+  ],
+  "author": "Srdjan Popovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/srkinator/srkinator.github.io.issues"
+  },
+  "homepage": "https://github.com/srkinator/srkinator.github.io#readme"
+}

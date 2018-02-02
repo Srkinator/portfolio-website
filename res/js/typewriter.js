@@ -1,8 +1,8 @@
 /***************************************************** 
 ** TypeWriter.js is a jQuery plug-in used to achieve
 ** animated typewriting effect.
-** Author: Yiotis Kaltsikis
-** Email: giotisgr@gmail.com
+** Author: Srdjan Popovic
+** Email: srdjanpopovicdev@gmail.com
 *****************************************************/
 
 (function(global) {
